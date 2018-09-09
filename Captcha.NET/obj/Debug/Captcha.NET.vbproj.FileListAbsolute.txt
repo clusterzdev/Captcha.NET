@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Captcha.NET\Captcha.NET\bin\Debug\Captcha.NET.dll.config
+C:\Users\Admin\source\repos\Captcha.NET\Captcha.NET\bin\Debug\Captcha.NET.dll
+C:\Users\Admin\source\repos\Captcha.NET\Captcha.NET\bin\Debug\Captcha.NET.pdb
+C:\Users\Admin\source\repos\Captcha.NET\Captcha.NET\bin\Debug\Captcha.NET.xml
+C:\Users\Admin\source\repos\Captcha.NET\Captcha.NET\obj\Debug\Captcha.NET.Resources.resources
+C:\Users\Admin\source\repos\Captcha.NET\Captcha.NET\obj\Debug\Captcha.NET.vbproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Captcha.NET\Captcha.NET\obj\Debug\Captcha.NET.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Captcha.NET\Captcha.NET\obj\Debug\Captcha.NET.dll
+C:\Users\Admin\source\repos\Captcha.NET\Captcha.NET\obj\Debug\Captcha.NET.xml
+C:\Users\Admin\source\repos\Captcha.NET\Captcha.NET\obj\Debug\Captcha.NET.pdb

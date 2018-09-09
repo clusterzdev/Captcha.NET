@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\Captcha.NET\Captcha.NET - Test\obj\Debug\Captcha.NET___Test.Form1.resources
+C:\Users\Admin\source\repos\Captcha.NET\Captcha.NET - Test\obj\Debug\Captcha.NET___Test.Resources.resources
+C:\Users\Admin\source\repos\Captcha.NET\Captcha.NET - Test\obj\Debug\Captcha.NET - Test.vbproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Captcha.NET\Captcha.NET - Test\obj\Debug\Captcha.NET - Test.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Captcha.NET\Captcha.NET - Test\bin\Debug\Captcha.NET - Test.exe.config
+C:\Users\Admin\source\repos\Captcha.NET\Captcha.NET - Test\bin\Debug\Captcha.NET - Test.exe
+C:\Users\Admin\source\repos\Captcha.NET\Captcha.NET - Test\bin\Debug\Captcha.NET - Test.pdb
+C:\Users\Admin\source\repos\Captcha.NET\Captcha.NET - Test\bin\Debug\Captcha.NET - Test.xml
+C:\Users\Admin\source\repos\Captcha.NET\Captcha.NET - Test\bin\Debug\Captcha.NET.dll
+C:\Users\Admin\source\repos\Captcha.NET\Captcha.NET - Test\bin\Debug\Captcha.NET.pdb
+C:\Users\Admin\source\repos\Captcha.NET\Captcha.NET - Test\bin\Debug\Captcha.NET.xml
+C:\Users\Admin\source\repos\Captcha.NET\Captcha.NET - Test\bin\Debug\Captcha.NET.dll.config
+C:\Users\Admin\source\repos\Captcha.NET\Captcha.NET - Test\obj\Debug\Captcha.NET - Test.vbprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Captcha.NET\Captcha.NET - Test\obj\Debug\Captcha.NET - Test.vbproj.CopyComplete
+C:\Users\Admin\source\repos\Captcha.NET\Captcha.NET - Test\obj\Debug\Captcha.NET - Test.exe
+C:\Users\Admin\source\repos\Captcha.NET\Captcha.NET - Test\obj\Debug\Captcha.NET - Test.xml
+C:\Users\Admin\source\repos\Captcha.NET\Captcha.NET - Test\obj\Debug\Captcha.NET - Test.pdb
